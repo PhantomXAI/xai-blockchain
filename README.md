@@ -21,7 +21,41 @@ Build a secure, sovereign, and intelligent blockchain for the age of quantum com
 
 **XAI** is not just a blockchain. It is an **autonomous, AI-resilient mesh network** where privacy, fairness, and security meet across borders and devices.
 
+# 🌐 XAI — Beyond Just a Digital Currency
+
+**XAI is not just a cryptocurrency — it’s a fully decentralized, sovereign digital infrastructure.**
+
+It combines:
+
+- 🔁 A **mesh-based alternative internet**
+- 💰 A **population-aware economic system**
+- 🧠 **Biometric identity & KYC stored locally**
+- 🗳️ **Offline-ready governance and voting**
+- 🤖 **Edge AI infrastructure**
+- 🔐 **Post-quantum secure communication**
+
+> XAI is designed for resilience — in peace or crisis, online or offline.  
+> It empowers people, not platforms.
+
 ---
+
+## 🧩 Core Components
+
+| Module                  | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| 🌐 **XAI MeshNet**         | Decentralized internet using local XAI Boxes with fallback to public internet |
+| 💰 **XAI Tokenomics**      | Population-based token allocation, local circulation, anti-inflation rewards |
+| 🧠 **XAI Identity**        | Offline biometric KYC stored locally with zero-knowledge proofs             |
+| 🗳️ **XAI Governance**      | Regional voting, abuse detection, government node suspension                |
+| 🔐 **XAI Security**        | Post-quantum encryption, ghost nodes, decentralized AI-based trust layer     |
+| ⚡ **XAI Hardware**         | Edge AI devices with optional solar power and Red Zone alerts               |
+
+---
+
+## 📚 Explore the Documentation
+
+👉 [Start here](docs/index.md)
+
 
 ## 🚀 Key Features
 
