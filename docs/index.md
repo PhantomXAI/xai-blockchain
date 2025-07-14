@@ -45,6 +45,9 @@ Details how merit-based rewards are calculated, penalties for inactivity or frau
 - [Future Improvements & Strategic Expansion](future_improvements.md)
  **[Use Cases](use_cases.md)**
 
+  - [🔮 Vision & Manifesto](./manifesto.md)
+
+
 > 🔍 For developers, researchers, or contributors — this documentation is your foundation for building, integrating, or auditing XAI NeuroMesh.
 
 Stay decentralized. Stay secure. Stay in sync.
