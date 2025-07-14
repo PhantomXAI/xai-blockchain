@@ -1,3 +1,16 @@
+# XAI NeuroMesh Network 🧠📡
+
+**XAI** is a next-generation decentralized mesh network powered by AI, built to replace traditional internet infrastructure with a secure, private, and scalable alternative.
+
+🔐 Post-quantum security  
+🌐 Mesh-based decentralized connectivity  
+🧬 Local biometric KYC & governance  
+
+📚 Explore the [Full Documentation](./docs/index.md)
+
+
+
+
 # XAI NeuroMesh Network 🧠📡  
 **PhantomXAI** – The Privacy-First, AI-Powered, Post-Quantum Blockchain Infrastructure
 
