@@ -36,7 +36,10 @@ Explains fair token allocation, anti-inflation mechanisms, and the use of econom
 ### 🎯 [rewards_and_incentives.md](rewards_and_incentives.md)
 Details how merit-based rewards are calculated, penalties for inactivity or fraud, and AI-based behavior auditing.
 
----
+## 🛠️ System Architecture & Recovery
+
+- [Resilience & Disaster Recovery](resilience_model.md) ✅
+
 
 > 🔍 For developers, researchers, or contributors — this documentation is your foundation for building, integrating, or auditing XAI NeuroMesh.
 
