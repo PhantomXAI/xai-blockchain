@@ -40,6 +40,10 @@ Details how merit-based rewards are calculated, penalties for inactivity or frau
 
 - [Resilience & Disaster Recovery](resilience_model.md) ✅
 
+## ⚠️ Strategic Add-ons
+
+- [Future Improvements & Strategic Expansion](future_improvements.md)
+
 
 > 🔍 For developers, researchers, or contributors — this documentation is your foundation for building, integrating, or auditing XAI NeuroMesh.
 
